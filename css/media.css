@@ -1,0 +1,31 @@
+
+
+/*للموبايلات */
+@media (max-width :767px){
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+        color: black;
+        background-color:aqua;
+    }
+    .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+        color: black;
+        background-color: aqua;
+        border: solid white;}
+
+.client p {
+    max-width: 404px;
+    margin: auto;
+}
+}
+
+/*لشاشات الجبيره */
+@media (min-width :1200px){
+
+}
+
+@media (min-width :768pxpx) and (max-width:991px){
+
+}
+@media (min-width :992pxpx) and (max-width:1199px){
+
+}
+
