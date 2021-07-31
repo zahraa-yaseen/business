@@ -228,19 +228,19 @@ text-shadow: 5px 5px 5px 8px black;
    
 }
 .client .carousel-indicators li:nth-child(1) {
-    background-image: url(../back4.png); 
+    background-image: url(../images/back4.png); 
     background-size: cover;
 }
 .client .carousel-indicators li:nth-child(2) {
-    background-image: url(../back3.png); 
+    background-image: url(../images/back3.png); 
     background-size: cover;
 }
 .client .carousel-indicators li:nth-child(3) {
-    background-image: url(../back2.png); 
+    background-image: url(../images/back2.png); 
     background-size: cover;
 }
 .client .carousel-indicators li:nth-child(4) {
-    background-image: url(../back1.png);
+    background-image: url(../images/back1.png);
     background-size: cover;
 }
 .client .carousel-indicators .active {
